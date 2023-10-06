@@ -1,0 +1,35 @@
+.photo{
+    margin-right: 10px;
+    float: right;
+   
+}
+
+.text{
+    padding: 10px;
+    margin-left: 140px;
+    font-size: 20px;
+    
+}
+
+header{
+    text-align: center;
+    font-family: 'Titan one';
+    font-size: 20px;
+    color: yellow;
+    -webkit-text-stroke-color: rgb(136, 146, 63);
+    -webkit-text-stroke-width: 1px;
+}
+
+.text2{
+    font-family: 'Shadows Into Light';
+    
+}
+
+.text3{
+    font-family: cursive;
+}
+
+.text4{
+    font-style: italic;
+    font-weight: 800;
+}
